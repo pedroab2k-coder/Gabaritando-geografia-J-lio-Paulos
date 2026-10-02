@@ -1,18 +1,20 @@
-GABARITANDO A GEOGRAFIA — versão atualizada
+Gabaritando a Geografia — V3
+Professor Júlio Paulos
 
-Pronto para GitHub/Vercel.
+Atualizações desta versão:
+- Página Sou aluno refeita conforme o rascunho: grade com 6 preparações.
+- Desktop: 3 cards por linha.
+- Mobile: 2 cards por linha; em telas muito estreitas, 1 por linha.
+- Produtos usa a mesma linguagem visual.
+- CTA comercial adotado: "Quero me preparar".
+- Curso Gabaritando Geografia já aponta para a Kaizen personalizada.
+- Demais acessos permanecem "Acesso em breve" até receberem as URLs.
+- Botões de produtos ficam prontos para receber páginas detalhadas/checkout.
 
-Inclui:
-- index.html
-- favicon.ico
-- assets/favicon-3d.png
-- ícones 32x32 e Apple Touch
-- símbolo da marca no cabeçalho
-- fotos originais do Professor Júlio Paulos
-- seção Método com a foto completa do professor à mesa
-- cards Aprenda / Pratique / Diagnostique / Evolua sobrepostos na região inferior da foto
-
-IMPORTANTE:
-Suba TODO o conteúdo mantendo a pasta assets ao lado do index.html.
-
-O botão "Já sou aluno" continua apontando temporariamente para /login.
+Preparações:
+1. Gabaritando Geografia
+2. ESFCEx
+3. AMAN
+4. CBMERJ
+5. ESA
+6. Barro Branco
